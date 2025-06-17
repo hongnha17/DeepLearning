@@ -1,5 +1,4 @@
-# DeepLearning
-Software to identify objects in traffic 
+# DeepLearning - Software to identify objects in traffic 
 
 
 #Collected over 1000 images data relate to the traffic (Car, Bicycle, Bike and People)
